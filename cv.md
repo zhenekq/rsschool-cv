@@ -1,4 +1,4 @@
-1. Vozny Eugene (real ones)
+1. Vozny Eugene
 2. mobile phone: +375295141627, email:zhenek02ss@gmail.com
 3. I want to become a good programmer and invent smth new in this world!
 4. 2 years of c++ and java, 1 year of html, css. Js - 1 month. Git - 3 month.
