@@ -1,1 +1,1 @@
-# rsschool-cv
+# rsschool-calculator-html
